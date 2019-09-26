@@ -1,0 +1,16 @@
+{
+    "token": "apikey",
+    "prefix": "!",
+    "commands": [
+        "JoinChannelCommand",
+        "ListenCommand",
+        "PlayCommand",
+        "SkipCommand",
+        "NextCommand"
+    ],
+    "voiceCommands": [
+        "PlayCommand",
+        "SkipCommand",
+        "NextCommand"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "token": "NjE0NDAyODM5NjIzNDk5Nzc2.XV--4w.f6Ar8umzfRe6TxY4E-tR5_t_tAY",
+    "prefix": "!",
+    "commands": [
+        "JoinChannelCommand",
+        "ListenCommand",
+        "PlayCommand",
+        "SkipCommand",
+        "NextCommand"
+    ],
+    "voiceCommands": [
+        "PlayCommand",
+        "SkipCommand",
+        "NextCommand"
+    ]
+}
